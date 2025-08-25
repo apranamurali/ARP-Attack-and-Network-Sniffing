@@ -62,6 +62,9 @@ arpspoof -i eth0 -t <victim_IP> <gateway_IP>
 
 ```
 ## OUTPUT:
+<img width="1010" height="806" alt="image" src="https://github.com/user-attachments/assets/7245ea96-2ba8-4e2c-9c60-15f36c61cc7e" />
+<img width="1257" height="902" alt="image" src="https://github.com/user-attachments/assets/0dcb688a-d9ae-4d77-a558-60c1ab4ce6d4" />
+<img width="812" height="140" alt="image" src="https://github.com/user-attachments/assets/35532824-278c-4c6e-a3df-0aa520a70a7b" />
 
 
 ## RESULT:
